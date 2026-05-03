@@ -3,7 +3,7 @@
 Recipe Finder Web App
 
 HOW TO RUN
-Open this link in your browser: [https://your-github-pages-link-here.com](https://justineklein29.github.io/IPT-Elegant_recipes_studio/)
+Open this link in your browser: https://justineklein29.github.io/IPT-Elegant_recipes_studio/
 Or download the ZIP, extract it, and open index.html in your browser.
 
 API USED
