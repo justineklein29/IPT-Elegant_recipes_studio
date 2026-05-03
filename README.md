@@ -3,15 +3,20 @@
 Recipe Finder Web App
 
 HOW TO RUN
-Open this link in your browser: https://your-github-pages-link-here.com
+Open this link in your browser: [https://your-github-pages-link-here.com](https://justineklein29.github.io/IPT-Elegant_recipes_studio/)
 Or download the ZIP, extract it, and open index.html in your browser.
 
 API USED
 TheMealDB API - https://www.themealdb.com
+
 https://www.themealdb.com/api/json/v1/1/
+
 https://www.themealdb.com/api/json/v1/1/random.php
+
 https://www.themealdb.com/api/json/v1/1/search.php?s=chicken
+
 https://www.themealdb.com/api/json/v1/1/filter.php?a=Filipino
+
 https://www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 A free public API that provides meal data like names, images, 
